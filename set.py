@@ -27,7 +27,7 @@ print(len(a))
 s.discard("qizil")
 print(s)
 
-
+d = {30, 40}
 b = {10, 20}
 c = a.union(b)
 print(c)
